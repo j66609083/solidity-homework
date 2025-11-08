@@ -31,5 +31,5 @@ https://sepolia.etherscan.io/tx/0x27503500b18e8b8f7c3348bb8d952cdd018b2c190ce995
 https://sepolia.etherscan.io/token/0x56a3615569bae929b63f485a7d5a1681f92bc025
 
 ### MetaMask查看NFT
-![示例图片](作业图片\任务2\作业2\MetaMask上NFT截图1.png)
-![示例图片](作业图片\任务2\作业2\MetaMask上NFT截图2.png)
+![示例图片](作业图片/任务2/作业2/MetaMask上NFT截图1.png)
+![示例图片](作业图片/任务2/作业2/MetaMask上NFT截图2.png)
