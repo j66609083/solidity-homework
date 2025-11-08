@@ -68,8 +68,16 @@ contract MyERC20Token {
         return _totalSupply;
     }
 
+    /**
+     * Returns the number of decimals the token uses
+     */
+    function decimals() public view returns (uint8){
+        return 18;
+    }
 
-
+    /**
+     * 修饰器
+     */
     modifier onlyOwner() {
         require(msg.sender == _contractOwner, "Only owner can call this function");
         _;
