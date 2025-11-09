@@ -12,7 +12,7 @@ contract BeggingContract {
     uint256 public endTime;            
 
     // 合约拥有者
-    address public _contractOwner; 
+    address private _contractOwner; 
 
     // 记录每次捐赠的地址和金额
     event Donation(address indexed donor, uint256 amount);

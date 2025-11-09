@@ -12,7 +12,7 @@ contract MyERC20Token {
     string private _name = "FaceToken";
     string private _symbol = "FTK";
 
-    address public _contractOwner; // 合约拥有者
+    address private _contractOwner; // 合约拥有者
 
     // eip-6093
     error ERC20InvalidSender(address sender);

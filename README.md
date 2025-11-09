@@ -55,16 +55,24 @@ https://sepolia.etherscan.io/tx/0xb6f68eb8a312c69fa41c93becd07daaa8ec81a44d0fe30
 
 ### donate函数测试
 * 调用记录：
-账号1：https://sepolia.etherscan.io/tx/0x1cde60cabb1f407611967989e220203bfbf7bd7c59d50ec22bc50f815e1470ab
-账号2：https://sepolia.etherscan.io/tx/0x0f4fd35bd9bfb18322c21b5a661be9c66dd26f5d1913b83d69a323bb411440b1
-账号3：https://sepolia.etherscan.io/tx/0xc3b15360e49b5aad9e8473d631a4cebfd7e9880fda8d5ff6bd353570f6b1d646
-账号4：https://sepolia.etherscan.io/tx/0x9bf013c23cf665c2c25051edf97b198d6932eb95a99c234737df0563d7f43f79
+账号1：
+https://sepolia.etherscan.io/tx/0x1cde60cabb1f407611967989e220203bfbf7bd7c59d50ec22bc50f815e1470ab
+账号2：
+https://sepolia.etherscan.io/tx/0x0f4fd35bd9bfb18322c21b5a661be9c66dd26f5d1913b83d69a323bb411440b1
+账号3：
+https://sepolia.etherscan.io/tx/0xc3b15360e49b5aad9e8473d631a4cebfd7e9880fda8d5ff6bd353570f6b1d646
+账号4：
+https://sepolia.etherscan.io/tx/0x9bf013c23cf665c2c25051edf97b198d6932eb95a99c234737df0563d7f43f79
 
 * 调用成功截图：
-账号1：![示例图片](作业图片/任务2/作业3/donate函数调用成功截图1.png)
-账号2：![示例图片](作业图片/任务2/作业3/donate函数调用成功截图2.png)
-账号3：![示例图片](作业图片/任务2/作业3/donate函数调用成功截图3.png)
-账号4：![示例图片](作业图片/任务2/作业3/donate函数调用成功截图4.png)
+账号1：
+![示例图片](作业图片/任务2/作业3/donate函数调用成功截图1.png)
+账号2：
+![示例图片](作业图片/任务2/作业3/donate函数调用成功截图2.png)
+账号3：
+![示例图片](作业图片/任务2/作业3/donate函数调用成功截图3.png)
+账号4：
+![示例图片](作业图片/任务2/作业3/donate函数调用成功截图4.png)
 
 * 捐赠0的异常场景测试：
 ![示例图片](作业图片/任务2/作业3/donate函数时间限制的异常场景测试截图1.png)
