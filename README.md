@@ -47,14 +47,14 @@ contracts\BeggingContract.sol
 https://sepolia.etherscan.io/tx/0xb6f68eb8a312c69fa41c93becd07daaa8ec81a44d0fe30deb56f63d764df67fc
 
 ### 测试账号
-账号1：0x7af6ae9c047d0078b009c03c32a60974c1868d2c（合约拥有者）（捐赠9999）
-账号2：0x81fbae1e7980b88f1690eda49b48992573c0589e（捐赠299999）
-账号3：0x10a6e4f1d8fe43b22432a3f9539d38c24e78925f（捐赠150000）
+账号1：0x7af6ae9c047d0078b009c03c32a60974c1868d2c（合约拥有者）（捐赠9999） 
+账号2：0x81fbae1e7980b88f1690eda49b48992573c0589e（捐赠299999） 
+账号3：0x10a6e4f1d8fe43b22432a3f9539d38c24e78925f（捐赠150000） 
 账号4：0xf38e55d6f05178480e55ceabea68b331a3063f70（捐赠550000）
 
 
 ### donate函数测试
-* 调用记录：
+* 调用记录： 
 账号1：
 https://sepolia.etherscan.io/tx/0x1cde60cabb1f407611967989e220203bfbf7bd7c59d50ec22bc50f815e1470ab
 账号2：
@@ -64,7 +64,7 @@ https://sepolia.etherscan.io/tx/0xc3b15360e49b5aad9e8473d631a4cebfd7e9880fda8d5f
 账号4：
 https://sepolia.etherscan.io/tx/0x9bf013c23cf665c2c25051edf97b198d6932eb95a99c234737df0563d7f43f79
 
-* 调用成功截图：
+* 调用成功截图： 
 账号1：
 ![示例图片](作业图片/任务2/作业3/donate函数调用成功截图1.png)
 账号2：
