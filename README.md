@@ -64,7 +64,7 @@ https://sepolia.etherscan.io/tx/0xc3b15360e49b5aad9e8473d631a4cebfd7e9880fda8d5f
 账号4：
 https://sepolia.etherscan.io/tx/0x9bf013c23cf665c2c25051edf97b198d6932eb95a99c234737df0563d7f43f79
 
-* 调用成功截图： 
+* 调用成功截图：  
 账号1：
 ![示例图片](作业图片/任务2/作业3/donate函数调用成功截图1.png)
 账号2：
