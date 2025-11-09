@@ -46,10 +46,10 @@ contracts\BeggingContract.sol
 ### 合约创建交易
 https://sepolia.etherscan.io/tx/0xb6f68eb8a312c69fa41c93becd07daaa8ec81a44d0fe30deb56f63d764df67fc
 
-### 测试账号
-账号1：0x7af6ae9c047d0078b009c03c32a60974c1868d2c（合约拥有者）（捐赠9999） 
-账号2：0x81fbae1e7980b88f1690eda49b48992573c0589e（捐赠299999） 
-账号3：0x10a6e4f1d8fe43b22432a3f9539d38c24e78925f（捐赠150000） 
+### 测试账号    
+账号1：0x7af6ae9c047d0078b009c03c32a60974c1868d2c（合约拥有者）（捐赠9999）      
+账号2：0x81fbae1e7980b88f1690eda49b48992573c0589e（捐赠299999）     
+账号3：0x10a6e4f1d8fe43b22432a3f9539d38c24e78925f（捐赠150000）     
 账号4：0xf38e55d6f05178480e55ceabea68b331a3063f70（捐赠550000）
 
 
